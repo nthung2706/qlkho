@@ -31,10 +31,5 @@ return [
     ],
 
 
-    'google' => [
-        'client_id' => '296179949840-a2cthqb8bv6ou4k5bd9ukj3u7ivp6k3o.apps.googleusercontent.com',
-        'client_secret' => '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',
-        'redirect' => 'https://0a41-106-212-124-50.ngrok.io/google/callback/',
-    ],
 
 ];
